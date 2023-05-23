@@ -43,13 +43,6 @@ To add an event, the user can click on a time block and enter the desired event.
 
 The events will persist between page refreshes, allowing the user to access their saved events even after closing and reopening the application.
 
-Screenshots
+**Screenshot**
 
-Screenshot
-
-Credits
-
-Moment.js library: https://momentjs.com/
-License
-
-This project is licensed under the MIT License.
+![image](https://github.com/antoninogambino/Module-7-Challenge/assets/112243266/4c55f7d8-77f7-4aba-a51e-84636bdb4a61)
